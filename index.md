@@ -1,6 +1,7 @@
 [![](https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/clean_banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
 
 
+<img src="clean_banner.gif" alt="banner"/>
 
 
 
