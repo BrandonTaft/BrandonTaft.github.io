@@ -1,4 +1,4 @@
-[![](https://github.com/BrandonTaft/BrandonTaft/blob/main/clean_banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
+[![](https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/clean_banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
 
 
 
