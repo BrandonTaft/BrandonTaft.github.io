@@ -20,7 +20,7 @@
 <div align='center'>
   
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="80" height="80" src="https://github.com/BrandonTaftBrandonTaft.github.io/blob/main/assets/javascript-original.svg" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/assets/javascript-original.svg" />
   </a>  
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/assets/bootstrap-original.svg" />
@@ -32,7 +32,7 @@
   <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/assets/git-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="80" height="80" src="https://github.com/BrandonTaftBrandonTaft.github.io/blob/main/assets/GitHub-Mark-Light-64px.png" />
+  <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/assets/GitHub-Mark-Light-64px.png" />
   </a>
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="80" height="80" src="https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/assets/heroku-original.svg" />
