@@ -28,8 +28,8 @@
   <img  width="80" height="80" src="assets/git-original.svg" />
   </a>
   <!-- <a href="https://www.linkedin.com/in/brandonmtaft">
-  <img  width="80" height="80" src="assets/GitHub-Mark-Light-64px.png" /> -->
-  </a>
+  <img  width="80" height="80" src="assets/GitHub-Mark-Light-64px.png" /> 
+  </a>-->
   <a href="https://www.linkedin.com/in/brandonmtaft">
   <img  width="80" height="80" src="assets/heroku-original.svg" />
   </a>
