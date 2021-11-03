@@ -81,6 +81,7 @@
 ## Connect With Me
 
 <p align="center">
+<a  href="https://mydevsite.surge.sh"><img height="30" src="https://img.shields.io/badge/-brandontaft.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
 <a  href="https://brandontaft.github.io"><img height="30" src="https://img.shields.io/badge/-brandontaft.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/brandonmtaft"><img height="30" src="https://img.shields.io/badge/-Brandon Taft-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:btaftcan@gmail.com"><img height="30" src="https://img.shields.io/badge/-btaftcan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
