@@ -1,8 +1,3 @@
-[![](https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/clean_banner.gif)](https://www.linkedin.com/in/brandonmtaft//)
-
-
-<img src="clean_banner.gif" alt="banner"/>
-
 
 
 <h3 text-decoration:none align='center'> Hi! I'm Brandon Taft <img src="https://github.com/BrandonTaft/BrandonTaft.github.io/blob/main/assets/wave.gif" width="30"></h3>
